@@ -43,7 +43,7 @@ git clone https://github.com/YOUR-USERNAME/secret-auction-python.git
 cd secret-auction-python
 ```
 
-Or download the project ZIP and extract it. Replace `YOUR-USERNAME` with your GitHub username if you use the clone command.
+Or download the project ZIP and extract it. Replace `Fafali1234557` with your GitHub username if you use the clone command.
 
 ### 2. Run the auction
 
