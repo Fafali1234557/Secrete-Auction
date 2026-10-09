@@ -39,7 +39,7 @@ secret-auction-python/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/secret-auction-python.git
+git clone https://github.com/Fafali1234557/secret-auction-python.git
 cd secret-auction-python
 ```
 
